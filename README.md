@@ -5,6 +5,6 @@ HTML, CSS
 
 ___
 
-Ссылка на макет: ![Landing Page](https://github.com/MarianaBykova/GoCorona-website-layout /main/assets/LandingPage.png)
+Макет: [Landing Page](https://github.com/MarianaBykova/GoCorona-website-layout/blob/main/assets/LandingPage.png)
 
 
